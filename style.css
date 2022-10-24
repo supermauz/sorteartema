@@ -1,0 +1,8 @@
+.resultado {
+  font-style: bold;
+  font-size: 3em;
+  color: rebeccapurple;
+}
+#submit {
+  border-radius: 5px;
+}
